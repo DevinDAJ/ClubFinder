@@ -20,6 +20,7 @@ var main = () => {
             let clubElement = document.createElement("div");
             clubElement.setAttribute("class", "club");
 
+            // test commit
             clubElement.innerHTML = `<img class="fan-art-club" src="${fanArt}" alt="Fan Art">
                 <div class="club-info">
                 <h2>${name}</h2>
